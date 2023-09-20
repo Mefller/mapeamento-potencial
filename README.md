@@ -24,7 +24,7 @@
 |        | Evelyn Victoria P. De Melo  | Developer Team |
 |        | Felipe Rodrigues Silva | Developer Team | 
 |        | Lucas Monteiro Da C. Silva | Developer Team | 
-|        | Marcos Vinícius da S. Sousa | Developer Team | 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/c3139c90-7f79-4627-b34f-a4d68d486a4b)| Marcos Vinícius da S. Sousa | Developer Team | 
 |        | Mayara Ferreira Nogueira | Developer Team | 
 
 
