@@ -2,7 +2,7 @@
 ***API 1° Semestre - Logística Noturno***
 
 ### **Índice**
-> Mapear o potencial de movimentação de cargas no Aeroporto SJK com base em dados de importação e exportação de municípios.
+* Mapear o potencial de movimentação de cargas no Aeroporto SJK com base em dados de importação e exportação de municípios.
 > 
 
 ### **O Projeto**
@@ -11,7 +11,17 @@
 ### **A Empresa**
 > A **MEFLLER LOGISTICS SOLUTIONS** tem como objetivo principal objetivo realizar consultorias de maneira eficiente e ágil, a fim de que nossos clientes alcancem suas expectativas. Entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas.
 
-> A Equipe
+ > Equipe 
 
 | Avatar | Aluno | Função | 
 | ------ | ----- | -------| 
+|        | Raíssa Nunes Corrêa | Product Owner |
+|        |                     | Scrum Master |
+|        | Elisama Israele T. Da Silva | Developer Team | 
+|        | Evelyn Victoria P. De Melo  | Developer Team |
+|        | Felipe Rodrigues Silva | Developer Team | 
+|        | Lucas Monteiro Da C. Silva | Developer Team | 
+|        | Marcos Vinícius da S. Sousa | Developer Team | 
+|        | Mayara Ferreira Nogueira | Developer Team | 
+
+
