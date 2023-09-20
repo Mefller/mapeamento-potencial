@@ -19,7 +19,7 @@
 | Avatar | Aluno | Função | 
 | ------ | ----- | -------| 
 |        | Raíssa Nunes Corrêa | Product Owner |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/93fa936b-6a1e-4fde-9dd6-774dcce611be) |Leandro Junio Ramos da Silva | Scrum Master |
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/62a5893a-f533-400d-aa4a-d7bf709ab96e)|Leandro Junio Ramos da Silva | Scrum Master |
 |        | Elisama Israele T. Da Silva | Developer Team | 
 |        | Evelyn Victoria P. De Melo  | Developer Team |
 |        | Felipe Rodrigues Silva | Developer Team | 
