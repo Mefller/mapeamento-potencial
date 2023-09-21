@@ -45,5 +45,5 @@ Este projeto foi realizado conforme a metodologia ágil, utilizando o software J
 
 > Cronograma
 
-Sprint 0 - dd/09/2023 à 25/09/2023
+Sprint 0 - 04/09/2023 à 25/09/2023
 
