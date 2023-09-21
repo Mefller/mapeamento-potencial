@@ -27,4 +27,20 @@
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/c3139c90-7f79-4627-b34f-a4d68d486a4b)| Marcos Vinícius da S. Sousa | Developer Team | 
 |        | Mayara Ferreira Nogueira | Developer Team | 
 
+> Identidade e Proposito
+Missão : Realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, independentemente do quão difícil seja.
+
+Visão : Crescer e se adaptar conforme as necessidades do mercado, tendo competitividade e visando ser referência na área.
+
+Valores: Honestidade; Responsabilidade; Dedicação; Pontualidade; Qualidade.
+
+### Objetivo 
+A demanda do cliente consiste em entender e avaliar o mapeamentos potencial dos aeroportos, cadeias produtivas internacionalizadas e infraestruturas de transporte. 
+
+### Organização e Metodologia
+Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
+
+> Cronograma
+
+Sprint 0 - dd/09/2023 à 25/09/2023
 
