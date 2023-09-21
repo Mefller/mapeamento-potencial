@@ -23,7 +23,7 @@
 |        | Raíssa Nunes Corrêa | Product Owner |
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/62a5893a-f533-400d-aa4a-d7bf709ab96e)|Leandro Junio Ramos da Silva | Scrum Master |
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/7132aa83-a0f0-4797-99da-855ff78b0efa)| Elisama Israele T. Da Silva | Developer Team | 
-|        | Evelyn Victoria P. De Melo  | Developer Team |
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/1c80bf75-b41c-48f6-8bbc-43ea71a0b639)| Evelyn Victoria P. De Melo  | Developer Team |
 |        | Felipe Rodrigues Silva | Developer Team | 
 |        | Lucas Monteiro Da C. Silva | Developer Team | 
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/c3139c90-7f79-4627-b34f-a4d68d486a4b)| Marcos Vinícius da S. Sousa | Developer Team | 
