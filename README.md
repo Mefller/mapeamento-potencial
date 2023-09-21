@@ -5,6 +5,8 @@
 * Mapear o potencial de movimentação de cargas no Aeroporto SJK com base em dados de importação e exportação de municípios.
 * Projeto
 * Empresa
+* Objetivo
+* Organização e Metodologia
 * Cronograma
  
 
@@ -28,6 +30,7 @@
 |        | Mayara Ferreira Nogueira | Developer Team | 
 
 > Identidade e Proposito
+
 Missão : Realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, independentemente do quão difícil seja.
 
 Visão : Crescer e se adaptar conforme as necessidades do mercado, tendo competitividade e visando ser referência na área.
