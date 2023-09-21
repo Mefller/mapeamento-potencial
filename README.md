@@ -38,7 +38,7 @@ Visão : Crescer e se adaptar conforme as necessidades do mercado, tendo competi
 Valores: Honestidade; Responsabilidade; Dedicação; Pontualidade; Qualidade.
 
 ### Objetivo 
-A demanda do cliente consiste em entender e avaliar o mapeamentos potencial dos aeroportos, cadeias produtivas internacionalizadas e infraestruturas de transporte. 
+A demanda do cliente consiste em entender e avaliar o mapeamentos potencial dos aeroportos, cadeias produtivas internacionalizadas e infraestruturas de transporte. Processo e análise que visa identificar e avaliar as capacidades e oportunidades de entrega de produtos ou serviços em uma determinada área geográfica, mercado ou rede de distribuição.
 
 ### Organização e Metodologia
 Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
