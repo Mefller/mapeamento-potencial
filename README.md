@@ -20,7 +20,7 @@
 
 | Avatar | Aluno | Função | 
 | ------ | ----- | -------| 
-|        | Raíssa Nunes Corrêa | Product Owner |
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/ecb7c381-31f4-491a-a0d5-e8e46d61f099)| Raíssa Nunes Corrêa | Product Owner |
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/62a5893a-f533-400d-aa4a-d7bf709ab96e)|Leandro Junio Ramos da Silva | Scrum Master |
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/7132aa83-a0f0-4797-99da-855ff78b0efa)| Elisama Israele T. Da Silva | Developer Team | 
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/1c80bf75-b41c-48f6-8bbc-43ea71a0b639)| Evelyn Victoria P. De Melo  | Developer Team |
