@@ -27,7 +27,7 @@
 |        | Felipe Rodrigues Silva | Developer Team | 
 |        | Lucas Monteiro Da C. Silva | Developer Team | 
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/c3139c90-7f79-4627-b34f-a4d68d486a4b)| Marcos Vinícius da S. Sousa | Developer Team | 
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/d712b691-7231-4ec9-8053-87312b7d675d)| Mayara Ferreira Nogueira | Developer Team | 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/016f2879-3b10-498a-bbeb-09c00d17e9fd)| Mayara Ferreira Nogueira | Developer Team | 
 
 ## Identidade e Proposito
 
