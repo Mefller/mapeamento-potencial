@@ -14,6 +14,8 @@
 > O projeto aborda o mapeamento do aeroporto SJK o processo ou analise que visa identificar e avaliar as capacidades e oportunidades de entrega de produtos ou serviços em uma determinada área geográfica, mercado ou rede de distribuição. Esse tipo de mapeamento é frequentemente utilizado por empresas que desejam aprimorar sua cadeia de suprimentos, ampliar sua presença no mercado ou melhorar a eficiência das entregas.
 
 ## **A Empresa**
+
+
 > A **MEFLLER LOGISTICS SOLUTIONS** tem como objetivo principal objetivo realizar consultorias de maneira eficiente e ágil, a fim de que nossos clientes alcancem suas expectativas. Entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas.
 
  > Equipe 
@@ -43,7 +45,29 @@ A demanda do cliente consiste em entender e avaliar o mapeamentos potencial dos 
 ### Organização e Metodologia
 Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
 
+## Backlog
+
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/b55aef70-1339-4fa8-9957-9a895deb894d)
+
+
 ## Cronograma
 
+Kick-off do Projeto - 04/09/2023
+
 Sprint 0 - 04/09/2023 à 25/09/2023
+
+Sprint 1 - 26/09/2023 à 16/10/2023 
+
+Sprint 2 - 17/10/2023 à 06/11/2023
+
+Sprint 3 - 28/11/2023 à 27/11/2023 
+
+Feira de Soluções - 12/12/2023
+
+
+
+
+
+
 
