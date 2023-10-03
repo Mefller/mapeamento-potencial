@@ -77,23 +77,19 @@ API 1° Semestre - Logística Noturno
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
-<p align="center">
+
   
 >Burndown Chart
 
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
-<p align="center">
+     
 
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0101.PNG" width="80%" height="40%">
-<p align="center">  
- 
+     
 </details>
   
 <details>
