@@ -171,7 +171,7 @@ _Por Tempo_
   
 </details>
   
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#top">voltar ao topo</a>)
 
 
 
