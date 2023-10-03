@@ -1,5 +1,12 @@
 # Mapeamento Potencial
-***API 1° Semestre - Logística Noturno***
+<p align="center"> 
+API 1° Semestre - Logística Noturno
+</p> 
+  
+<p align="center">   
+ <img src="https://img.shields.io/badge/Status%3A-DONE-green"/>
+ <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
+</p>
 
 ## **Índice**
 * Mapear o potencial de movimentação de cargas no Aeroporto SJK com base em dados de importação e exportação de municípios.
@@ -30,7 +37,7 @@
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/d14ad057-9c30-4cc5-92c4-213acbcd16c7)| Lucas Monteiro Da C. Silva | Developer Team | https://www.linkedin.com/in/lucas-monteiro-07a519217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/c3139c90-7f79-4627-b34f-a4d68d486a4b)| Marcos Vinícius da S. Sousa | Developer Team | https://www.linkedin.com/in/marcos-vinicius-da-silva-sousa-59626a183?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app |
 |![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/149ea356-9f1e-4191-99b8-24f102d8f315)| Mayara Ferreira Nogueira | Developer Team | https://www.linkedin.com/in/mayara-nogueira-5ba849a7 |
-
+                                                                                                                                                                                                                                                                                      
 ## Identidade e Proposito
 
 > Missão : Realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, independentemente do quão difícil seja.
@@ -45,13 +52,7 @@
 
 ### Organização e Metodologia
 > Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
-
-## Backlog
-
-
-![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/b55aef70-1339-4fa8-9957-9a895deb894d)
-
-
+                                                                                                                                                                                       <p align="right">(<a href="#top">voltar ao topo</a>)                                                                                                                                                                                  
 ## Cronograma
 
 * Kick-off do Projeto - 04/09/2023
@@ -65,6 +66,112 @@
 * Sprint 3 - 28/11/2023 à 27/11/2023 
 
 * Feira de Soluções - 12/12/2023
+                                                                                                                                                                                     <p align="right">(<a href="#top">voltar ao topo</a>)
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/b55aef70-1339-4fa8-9957-9a895deb894d)
+
+
+<details>
+<summary>Sprint 01</summary>
+ 
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
+<p align="center">
+  
+>Burndown Chart
+
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
+<p align="center">
+
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0101.PNG" width="80%" height="40%">
+<p align="center">  
+ 
+</details>
+  
+<details>
+<summary>Sprint 02</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint2.png" width="70%" height="30%">
+<p align="center">
+  
+>Burndown Chart
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0202.PNG" width="80%" height="40%">
+<p align="center">
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0201.PNG" width="80%" height="40%">
+<p align="center">  
+  
+</details>
+  
+<details>
+<summary>Sprint 03</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint3.png" width="60%" height="30%">
+<p align="center">
+  
+>Burndown Chart
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0302.PNG" width="80%" height="40%">
+<p align="center">
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0301.PNG" width="80%" height="40%">
+<p align="center">  
+  
+</details>
+  
+<details>
+<summary>Sprint 04</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint4.png" width="50%" height="30%">
+<p align="center">
+  
+>Burndown Chart
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0401.PNG" width="80%" height="40%">
+<p align="center">
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center">  
+  
+</details>
+  
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
 
 
