@@ -27,16 +27,17 @@ API 1° Semestre - Logística Noturno
 
  > Equipe 
 
-| Avatar | Aluno | Função | Linkedln |
-| ------ | ----- | -------| -------- |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/ecb7c381-31f4-491a-a0d5-e8e46d61f099)| Raíssa Nunes Corrêa | Product Owner | https://www.linkedin.com/in/ra%C3%ADssa-nunes-corr%C3%AAa-aba11622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/62a5893a-f533-400d-aa4a-d7bf709ab96e)|Leandro Junio Ramos da Silva | Scrum Master | https://www.linkedin.com/in/leandro-ramos-193040277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/7132aa83-a0f0-4797-99da-855ff78b0efa)| Elisama Israele T. Da Silva | Developer Team | https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/1c80bf75-b41c-48f6-8bbc-43ea71a0b639)| Evelyn Victoria P. De Melo  | Developer Team | https://www.linkedin.com/in/evelyn-vict%C3%B3ria-p-de-melo-63254a233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/0db67253-7855-4d97-9e5b-927bf5ecf4e3)| Felipe Rodrigues Silva | Developer Team | https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/d14ad057-9c30-4cc5-92c4-213acbcd16c7)| Lucas Monteiro Da C. Silva | Developer Team | https://www.linkedin.com/in/lucas-monteiro-07a519217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/c3139c90-7f79-4627-b34f-a4d68d486a4b)| Marcos Vinícius da S. Sousa | Developer Team | https://www.linkedin.com/in/marcos-vinicius-da-silva-sousa-59626a183?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app |
-|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/149ea356-9f1e-4191-99b8-24f102d8f315)| Mayara Ferreira Nogueira | Developer Team | https://www.linkedin.com/in/mayara-nogueira-5ba849a7 |
+| Avatar | Aluno | Função | 
+| ------ | ----- | -------| 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/ecb7c381-31f4-491a-a0d5-e8e46d61f099)| Raíssa Nunes Corrêa | Product Owner | 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/62a5893a-f533-400d-aa4a-d7bf709ab96e)|Leandro Junio Ramos da Silva | Scrum Master | 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/7132aa83-a0f0-4797-99da-855ff78b0efa)| Elisama Israele T. Da Silva | Developer Team | 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/1c80bf75-b41c-48f6-8bbc-43ea71a0b639)| Evelyn Victoria P. De Melo  | Developer Team |
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/0db67253-7855-4d97-9e5b-927bf5ecf4e3)| Felipe Rodrigues Silva | Developer Team | 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/d14ad057-9c30-4cc5-92c4-213acbcd16c7)| Lucas Monteiro Da C. Silva | Developer Team |
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/c3139c90-7f79-4627-b34f-a4d68d486a4b)| Marcos Vinícius da S. Sousa | Developer Team | 
+|![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/149ea356-9f1e-4191-99b8-24f102d8f315)| Mayara Ferreira Nogueira | Developer Team |
+
                                                                                                                                                                                                                                                                                       
 ## Identidade e Proposito
 
