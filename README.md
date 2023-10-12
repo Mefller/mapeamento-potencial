@@ -88,9 +88,17 @@ API 1° Semestre - Logística Noturno
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-  
-![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/b6daac75-b9b8-410e-97cb-ec45898fa474)
 
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/18331696-7e39-475d-98de-01c0d5949e2e)
+
+
+_Por Itens_
+
+<p align="center">
+      <img src="./imagens_git/burndowm0302.PNG" width="80%" height="40%">
+<p align="center">
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/238e09ce-1bc1-4dc0-8ced-44a86ac386f1)
 
      
 </details>
