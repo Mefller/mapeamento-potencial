@@ -78,18 +78,20 @@ API 1° Semestre - Logística Noturno
 >Backlog
 <div id="top"></div>
 <p align="center">
-
   
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/b36a8176-b5c5-447f-b622-29d2c481aa0a)
+
+
+
 >Burndown Chart
 
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-     
+  
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/b6daac75-b9b8-410e-97cb-ec45898fa474)
 
-_Por Tempo_
-<div id="top"></div>
-<p align="center">
+
      
 </details>
   
