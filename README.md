@@ -100,6 +100,9 @@ _Por Itens_
 
 ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/238e09ce-1bc1-4dc0-8ced-44a86ac386f1)
 
+_Relatório_
+
+
      
 </details>
   
