@@ -64,7 +64,7 @@ API 1° Semestre - Logística Noturno
 
 * Sprint 2 - 17/10/2023 à 06/11/2023
 
-* Sprint 3 - 28/11/2023 à 27/11/2023 
+* Sprint 3 - 06/11/2023 à 27/11/2023 
 
 * Feira de Soluções - 12/12/2023
                                                                                                                                                                                      <p align="right">(<a href="#top">voltar ao topo</a>)
