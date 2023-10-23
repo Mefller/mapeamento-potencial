@@ -22,6 +22,8 @@ API 1° Semestre - Logística Noturno
 
 ## **A Empresa**
 
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/d297a563-e296-4df0-84a9-d07c2fa5e5e6)
+
 
 > A **MEFLLER LOGISTICS SOLUTIONS** tem como objetivo principal objetivo realizar consultorias de maneira eficiente e ágil, a fim de que nossos clientes alcancem suas expectativas. Entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas.
 
@@ -51,9 +53,26 @@ API 1° Semestre - Logística Noturno
 ## Objetivo 
 > A demanda do cliente consiste em entender e avaliar o mapeamentos potencial dos aeroportos, cadeias produtivas internacionalizadas e infraestruturas de transporte. Processo e análise que visa identificar e avaliar as capacidades e oportunidades de entrega de produtos ou serviços em uma determinada área geográfica, mercado ou rede de distribuição.
 
-### Organização e Metodologia
+## Organização e Metodologia
 > Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
-                                                                                                                                                                                       <p align="right">(<a href="#top">voltar ao topo</a>)                                                                                                                                                                                  
+
+## Funcionalidades e Registros
+> Apresentação das funcionalidades e Registros Educacionais
+### Bases Tecnológicas
+### Tecnologias de Apoio
+
+> Jira software
+
+> 5W2H
+
+> Power BI
+
+> GitHub
+
+
+### MVP do Produto 
+> Descreva aqui o MVP do Produto
+
 ## Cronograma
 
 * Kick-off do Projeto - 04/09/2023
