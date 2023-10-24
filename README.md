@@ -23,7 +23,7 @@ API 1° Semestre - Logística Noturno
 ## **A Empresa**
 > Logo
 
-![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/d297a563-e296-4df0-84a9-d07c2fa5e5e6)
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/79973ebd-049e-4cdd-b8bf-a9d6ee4ea959)
 
 
 > A **MEFLLER LOGISTICS SOLUTIONS** tem como objetivo principal objetivo realizar consultorias de maneira eficiente e ágil, a fim de que nossos clientes alcancem suas expectativas. Entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas.
