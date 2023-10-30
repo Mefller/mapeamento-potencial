@@ -120,7 +120,19 @@ _Por Itens_
 
 ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/238e09ce-1bc1-4dc0-8ced-44a86ac386f1)
 
-_Relatório_
+_Potótipo de Dashboard_
+
+>Importação
+
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/db2bd244-7024-48eb-8354-b39ed5821ca7)
+
+>Exportação
+
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/885a75f3-a186-4622-95d7-adb8ab6487c1)
+
+
 
 
      
