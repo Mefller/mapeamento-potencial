@@ -62,13 +62,9 @@ API 1° Semestre - Logística Noturno
 ### Bases Tecnológicas
 ### Tecnologias de Apoio
 
-> Jira software
 
-> 5W2H
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/596a22f2-45a1-45ec-aff0-9081f74065b8)
 
-> Power BI
-
-> GitHub
 
 
 ### MVP do Produto 
