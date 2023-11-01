@@ -151,14 +151,12 @@ _Potótipo de Dashboard_
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0202.PNG" width="80%" height="40%">
-<p align="center">
+     
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0201.PNG" width="80%" height="40%">
-<p align="center">  
+      
   
 </details>
   
