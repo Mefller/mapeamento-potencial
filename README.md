@@ -12,8 +12,10 @@ API 1° Semestre - Logística Noturno
 
 * Projeto
 * Empresa
+* Identidade e Propósito
 * Objetivo
 * Organização e Metodologia
+* Tecnologias de apoio
 * Cronograma
  
 
