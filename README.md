@@ -9,7 +9,7 @@ API 1° Semestre - Logística Noturno
 </p>
 
 ## **Índice**
-* Mapear o potencial de movimentação de cargas no Aeroporto SJK com base em dados de importação e exportação de municípios.
+
 * Projeto
 * Empresa
 * Objetivo
