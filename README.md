@@ -114,8 +114,7 @@ _Por Tempo_
 _Por Itens_
 
 <p align="center">
-      <img src="./imagens_git/burndowm0302.PNG" width="80%" height="40%">
-<p align="center">
+      
 
 ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/238e09ce-1bc1-4dc0-8ced-44a86ac386f1)
 
@@ -143,9 +142,10 @@ _Potótipo de Dashboard_
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint2.png" width="70%" height="30%">
-<p align="center">
-  
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/2bcdb00f-47ff-4e61-9bd2-3b99bf4ce8a1)
+
+      
 >Burndown Chart
   
 _Por Itens_
