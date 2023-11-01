@@ -185,33 +185,6 @@ _Por Tempo_
   
 </details>
   
-<details>
-<summary>Sprint 04</summary>
-
->Backlog
-<div id="top"></div>
-<p align="center">
-      <img src="./imagens_git/backlogsprint4.png" width="50%" height="30%">
-<p align="center">
-  
->Burndown Chart
-  
-_Por Itens_
-<div id="top"></div>
-<p align="center">
-      <img src="./imagens_git/burndowm0401.PNG" width="80%" height="40%">
-<p align="center">
-  
-_Por Tempo_
-<div id="top"></div>
-<p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
-<p align="center">  
-  
-</details>
-  
-<p align="right">(<a href="#top">voltar ao topo</a>)
-
 
 
 
