@@ -62,8 +62,9 @@ API 1° Semestre - Logística Noturno
 ### Bases Tecnológicas
 ### Tecnologias de Apoio
 
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/abfbb4a9-a495-4541-b159-552172ebce07)
 
-![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/596a22f2-45a1-45ec-aff0-9081f74065b8)
+
 
 
 
