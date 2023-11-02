@@ -166,22 +166,19 @@ _Por Tempo_
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint3.png" width="60%" height="30%">
-<p align="center">
+     
   
 >Burndown Chart
   
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0302.PNG" width="80%" height="40%">
-<p align="center">
+     
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0301.PNG" width="80%" height="40%">
-<p align="center">  
+       
   
 </details>
   
