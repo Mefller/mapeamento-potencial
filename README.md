@@ -157,8 +157,16 @@ _Por Tempo_
 <div id="top"></div>
 <p align="center">
       
-  
-</details>
+_Potótipo de Dashboard_
+
+> Importação
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/35f0144a-d117-4d64-b564-ce5dce1623eb)
+
+> Exportação
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/775d60fc-bf3c-4746-95ed-5b43bef38756)
+
   
 <details>
 <summary>Sprint 03</summary>
