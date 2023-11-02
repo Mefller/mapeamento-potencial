@@ -167,6 +167,9 @@ _Potótipo de Dashboard_
 
 ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/775d60fc-bf3c-4746-95ed-5b43bef38756)
 
+
+</details>
+
   
 <details>
 <summary>Sprint 03</summary>
