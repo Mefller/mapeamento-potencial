@@ -148,15 +148,19 @@ _Potótipo de Dashboard_
       
 >Burndown Chart
   
-_Por Itens_
-<div id="top"></div>
-<p align="center">
-     
-  
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/6c7e3021-5eb7-4a67-870a-7e0df41b79df)
+
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/acabcfc8-384a-4d38-a863-2489a35bc91f)
+
 _Potótipo de Dashboard_
 
 > Importação
