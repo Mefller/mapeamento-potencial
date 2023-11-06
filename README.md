@@ -59,19 +59,12 @@ API 1° Semestre - Logística Noturno
 ## Organização e Metodologia
 > Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
 
-## Funcionalidades e Registros
-> Apresentação das funcionalidades e Registros Educacionais
 ### Bases Tecnológicas
 ### Tecnologias de Apoio
 
 ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/abfbb4a9-a495-4541-b159-552172ebce07)
 
 
-
-
-
-### MVP do Produto 
-> Descreva aqui o MVP do Produto
 
 ## Cronograma
 
@@ -93,7 +86,9 @@ API 1° Semestre - Logística Noturno
 
 <details>
 <summary>Sprint 01</summary>
- 
+
+ _Concluido_
+
 >Backlog
 <div id="top"></div>
 <p align="center">
@@ -139,6 +134,8 @@ _Potótipo de Dashboard_
 <details>
 <summary>Sprint 02</summary>
 
+_Em Desenvolvimento_
+
 >Backlog
 <div id="top"></div>
 <p align="center">
@@ -177,6 +174,9 @@ _Potótipo de Dashboard_
   
 <details>
 <summary>Sprint 03</summary>
+  
+_Em Desenvolvimento_
+
 
 >Backlog
 <div id="top"></div>
