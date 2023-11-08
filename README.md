@@ -164,11 +164,12 @@ _Potótipo de Dashboard_
 
 > Importação
 
-![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/35f0144a-d117-4d64-b564-ce5dce1623eb)
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/ec8a89e6-5437-4cc6-b4be-86c3d8c8c7a7)
+
 
 > Exportação
 
-![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/775d60fc-bf3c-4746-95ed-5b43bef38756)
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/3655ae8a-42f2-4187-b2be-a0863c4deb8a)
 
 
 </details>
