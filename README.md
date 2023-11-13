@@ -13,6 +13,8 @@ API 1° Semestre - Logística Noturno
 * Projeto
 * Empresa
 * Identidade e Propósito
+* Análise SWOT
+* Departamentalização
 * Objetivo
 * Organização e Metodologia
 * Tecnologias de apoio
@@ -53,7 +55,15 @@ API 1° Semestre - Logística Noturno
 
 > Valores: Honestidade; Responsabilidade; Dedicação; Pontualidade; Qualidade.
 
+
+## Análise SWOT
+
 ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/2ceecc8f-d2b5-4cd4-9baf-82d3bb41e848)
+
+## Departamentalização 
+
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/701894c0-5529-41b1-919d-2cf4966ccc7c)
+
 
 
 ## Objetivo 
