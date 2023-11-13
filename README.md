@@ -19,6 +19,7 @@ API 1° Semestre - Logística Noturno
 * Organização e Metodologia
 * Tecnologias de apoio
 * Cronograma
+* Backlog
  
 
 ## **O Projeto**
