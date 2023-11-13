@@ -53,6 +53,8 @@ API 1° Semestre - Logística Noturno
 
 > Valores: Honestidade; Responsabilidade; Dedicação; Pontualidade; Qualidade.
 
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/2ceecc8f-d2b5-4cd4-9baf-82d3bb41e848)
+
 
 ## Objetivo 
 > A demanda do cliente consiste em entender e avaliar o mapeamentos potencial dos aeroportos, cadeias produtivas internacionalizadas e infraestruturas de transporte. Processo e análise que visa identificar e avaliar as capacidades e oportunidades de entrega de produtos ou serviços em uma determinada área geográfica, mercado ou rede de distribuição.
