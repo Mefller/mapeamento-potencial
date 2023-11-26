@@ -208,14 +208,16 @@ _Por Itens_
 <div id="top"></div>
 <p align="center">
 
-![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/421225c2-c2fe-427c-9d27-2d6725347199)
+![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/11c942c6-4953-4def-9206-f9bf6746192e)
+
 
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
        
- ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/77f53d27-6ed6-4fa4-9b2d-e73bbf5c3089)
+ ![image](https://github.com/Mefller/mapeamento-potencial/assets/144354286/55ec7193-b2a0-4188-8846-4c62173d89c1)
+
 
   
 _Potótipo de Dashboard_
